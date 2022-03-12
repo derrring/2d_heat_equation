@@ -8,4 +8,6 @@ Analysis and numerical methods for 2D heat equation
 - [ ] Formulation of problem
 - [ ] Fundamental solution on various conditions
 - [ ] Spectral analysis of heat equation
-- [ ] DFT and FFT
+- [ ] DFT and FFT realization
+
+### Week 2
