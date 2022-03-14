@@ -8,9 +8,12 @@ Analysis and numerical methods for 2D heat equation
 - [x] Formulation of problem
 - [x] Fundamental solution on various conditions
 - [x] Spectral analysis of heat equation
+- [ ] DFT and FFT realization
+
 
 ### Week 2
+
 - [ ] DFT and FFT realization
 - [ ] 1D FDM
-      - [ ] Euler explicit method
+    - [ ] Euler explicit method
 
