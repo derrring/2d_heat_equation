@@ -12,8 +12,13 @@ Analysis and numerical methods for 2D heat equation
 
 
 ### Week 2
-
+- [ ] Rewite the deduction of funtamental solution by another approach
+- [ ] Minor fix: use the proper Hilbert space to express periodic boundary condition
 - [ ] DFT and FFT realization
 - [ ] 1D FDM
     - [ ] Euler explicit method
+- [ ] Framework for algorithm analysis
+    - [ ] Consistency
+    - [ ] Stability
+    - [ ] Order of convergence  
 
