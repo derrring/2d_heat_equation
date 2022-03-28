@@ -12,7 +12,8 @@ Analysis and numerical methods for 2D heat equation
 
 
 ### Week 2
-- [ ]~~ Rewite the deduction of funtamental solution by another approach~~
+
+- [ ] ~~ Rewite the deduction of funtamental solution by another approach~~
 - [x] Minor fix: use the proper Hilbert space to express periodic boundary condition
 - [x] 1D FDM
     - [x] Euler explicit method
@@ -21,6 +22,7 @@ Analysis and numerical methods for 2D heat equation
 - [x] Enriched details of eigenfunction method
 
 ### Week 3
+
 - [ ] Further study of fundatmental solution, draw animated gif with respect to time variable
 - [ ] DFT and FFT realization
 - [ ] 1D FDM
