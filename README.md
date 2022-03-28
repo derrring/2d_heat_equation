@@ -15,10 +15,10 @@ Analysis and numerical methods for 2D heat equation
 - [ ] Rewite the deduction of funtamental solution by another approach
 - [ ] Minor fix: use the proper Hilbert space to express periodic boundary condition
 - [ ] DFT and FFT realization
-- [ ] 1D FDM
-    - [ ] Euler explicit method
+- [x] 1D FDM
+    - [x] Euler explicit method
 - [ ] Framework for algorithm analysis
     - [ ] Consistency
-    - [ ] Stability
-    - [ ] Order of convergence  
+- [ ] Enriched details of eigenfunction method
+
 
