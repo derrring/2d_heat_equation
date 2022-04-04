@@ -23,10 +23,13 @@ Analysis and numerical methods for 2D heat equation
 
 ### Week 3
 
-- [ ] Further study of fundatmental solution, draw animated gif with respect to time variable
+- [ ] Further study of fundatmental solution
 - [ ] DFT and FFT realization
 - [ ] 1D FDM
-    - [ ] Euler implicit method
+    - [ ] Euler implicit method, Leapfrog method
     - [ ] Crank-Nicolson method
 
 
+### Planned
+
+- [ ] Draw animated gif of fundatmental solution with respect to time variable
